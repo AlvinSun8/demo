@@ -12,5 +12,11 @@
         android:layout_height="wrap_content"
         android:text="Ultimate Design" />
 
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Go to Activity2" />
+
 </LinearLayout>
 
